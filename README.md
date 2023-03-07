@@ -7,7 +7,7 @@ https://adielx97-first-project-income-dashboard-project-uxplob.streamlit.app/
 
 ## Main Features:
 - Web Scraper linked with Gehalt.de (type in keywords in the searchbar)
-- Many Plots linked to different filter options e.g. education level, different locations in germany, responsibility, company size
+- Many Plots linked to different filter options e.g. education level plots with filter options for different industries (Please keep in mind that we were limited by our data source to a certain extent)
 
 ## Issues and Considerations:
 - Plots of Income Level in relation to education level / degree are based on mean values not median
