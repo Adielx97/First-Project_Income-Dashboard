@@ -1,6 +1,6 @@
 # First-Project_Income-Dashboard
 ## Introduction
-This is the first Python project that me, Iqbal, and my partner Viet worked on during the university course "Financial Economics with Python". We wanted to gather income data in germany in visualize our finding in python via streamlit. We mainly used the StepStone 2023 Income Report as a source which provided median data points and was based on a reserach consisting of over 600.000 data points.   
+This is the first Python project that me, Iqbal, and my partner Viet worked on during the university course "Financial Economics with Python". We wanted to gather income data in germany in visualize our findings in python via streamlit. We mainly used the StepStone 2022 Income Report as a source which provided median data points and was based on a reserach consisting of over 600.000 data points.   
 
 ## You can access the Web-App via this link: 
 https://adielx97-first-project-income-dashboard-project-uxplob.streamlit.app/
